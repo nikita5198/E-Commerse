@@ -12,3 +12,7 @@ if(close){
     nav.classList.remove('active');
   })
 }
+
+const cartItem=document.querySelectorAll(".tabRow")
+console.log(cartItem);
+
